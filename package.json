@@ -7,7 +7,8 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
     "firebase-login": "firebase login",
-    "firebase-init": "firebase init"
+    "firebase-init": "firebase init",
+    "firebase-token": "firebase login:ci"
   },
   "keywords": [],
   "author": "",
